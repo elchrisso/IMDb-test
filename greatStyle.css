@@ -1,0 +1,12 @@
+body {
+  padding-top: 80px;
+}
+
+a.thick {
+    font-weight: bold;
+}
+.jumbotron img{
+            height:100%;
+            width:100%;
+            max-width:100%;
+        }
